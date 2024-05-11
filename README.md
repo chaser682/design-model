@@ -2,7 +2,8 @@
 
 ## Start
 ```shell
-git clone 
+git clone https://github.com/chaser682/design-model.git
+cd design-mode
 ```
 
 ## 一、创建型模式（Creational）：
