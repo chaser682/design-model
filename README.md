@@ -6,14 +6,14 @@ git clone https://github.com/chaser682/design-model.git
 cd design-mode
 ```
 
-## 一、创建型模式（Creational）：
+## 一、创建型模式（Creational）
 ### 1.工厂方法模式（Factory Method）
 ### 2.抽象工厂模式（Abstract Factory）
 ### 3.建造者模式（Builder）
 ### 4.原型模式（Prototype）
 ### 5. 单例模式（Singleton）
 
-## 二、结构型模式（Structural）：
+## 二、结构型模式（Structural）
 ### 1.适配器模式（Adapter）
 ### 2.桥接模式（Bridge）
 ### 3.组合模式（Composite）
@@ -22,7 +22,7 @@ cd design-mode
 ### 6.享元模式（Flyweight）
 ### 7.代理模式（Proxy）
 
-## 三、行为型模式（Behavioral）：
+## 三、行为型模式（Behavioral）
 ### 1.解释器模式（Interpreter）
 ### 2.模板方法模式（Template Method）
 ### 3.责任链模式（Chain of Responsibility）
